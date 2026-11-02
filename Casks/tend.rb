@@ -1,6 +1,6 @@
 cask "tend" do
-  version "1.7.1"
-  sha256 "ac0b275f685996c2e2237ee1b0d409c4c12d7e765519c64f1ce6998064c623e9"
+  version "1.8.0"
+  sha256 "ac9394aa8466c7f8719cc985543593ca56a1fc9b3e6f2daa940f8acdee0f75a5"
 
   url "https://tendmac.app/downloads/Tend-#{version}.dmg"
   name "Tend"
