@@ -1,6 +1,6 @@
 # Homebrew tap for Tend
 
-[Tend](https://tendmac.app/) shows which apps drain your Mac's battery, in estimated watts, how your battery's health is holding up and what's running hot. It needs a Mac with Apple silicon and macOS 15 Sequoia or later.
+[Tend](https://tendmac.app/) shows which apps drain your Mac's battery, in estimated watts, how your battery's health is holding up and what's running hot. It needs a Mac with Apple silicon and macOS 13 Ventura or later.
 
 ## Install
 

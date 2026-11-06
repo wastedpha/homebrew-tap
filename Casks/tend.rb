@@ -1,6 +1,6 @@
 cask "tend" do
-  version "1.8.0"
-  sha256 "ac9394aa8466c7f8719cc985543593ca56a1fc9b3e6f2daa940f8acdee0f75a5"
+  version "1.9.0"
+  sha256 "c59213b099b1f39f0371fc6ff74fff0a0f682f48434805ac9558d95def051846"
 
   url "https://tendmac.app/downloads/Tend-#{version}.dmg"
   name "Tend"
@@ -14,7 +14,7 @@ cask "tend" do
 
   auto_updates true
   depends_on arch: :arm64
-  depends_on macos: :sequoia
+  depends_on macos: :ventura
 
   app "Tend.app"
 
